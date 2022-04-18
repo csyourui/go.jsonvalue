@@ -69,9 +69,9 @@ func escapeStringToAsciiToBuff(s string, buf *bytes.Buffer, opt *Opt) {
 		case '"':
 			// buf.WriteString("\\\"")
 			buf.Write(escDoubleQuote)
-		case '/':
-			// buf.WriteString("\\/")
-			buf.Write(escSlash)
+		//case '/':
+		//	// buf.WriteString("\\/")
+		//	buf.Write(escSlash)
 		case '\\':
 			// buf.WriteString("\\\\")
 			buf.Write(escBaskslash)

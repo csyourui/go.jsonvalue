@@ -3,7 +3,7 @@ package jsonvalue_test
 import (
 	"fmt"
 
-	jsonvalue "github.com/Andrew-M-C/go.jsonvalue"
+	jsonvalue "github.com/csyourui/go.jsonvalue"
 )
 
 func ExampleV_String() {

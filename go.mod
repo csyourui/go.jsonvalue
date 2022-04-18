@@ -1,4 +1,4 @@
-module github.com/Andrew-M-C/go.jsonvalue
+module github.com/csyourui/go.jsonvalue
 
 go 1.13
 

@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	jsonvalue "github.com/Andrew-M-C/go.jsonvalue"
+	jsonvalue "github.com/csyourui/go.jsonvalue"
 )
 
 // Import convert json value from a marsalable parameter to *V. This a experimental function.
